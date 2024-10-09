@@ -1,9 +1,14 @@
-# ct_protocol_summary
+# :crystal_ball: ct_protocol_summary
 Converts CT protocol data from HTML files into an Excel spreadsheet
 
-Please refer to the requirement.txt file for the list of packages
-When the code starts running, it will open a file explorer pop-up window for you to select the html file of interest.
-The next window will ask for a location where you wish the result to be saved at.
-Then in the final pop-up, you can give the output file a name.
+> [!IMPORTANT]
+> Please refer to the `requirements.txt` file for the list of required packages.
 
-When the script successfully finished, it will print 'Data successfully extracted and saved to {file path and name} with formatting'
+## How to Use
+
+
+   - When the script starts running, a file explorer pop-up window will appear, allowing you to select the HTML file of interest.
+   - The next window will prompt you to choose the location where you wish to save the result.
+   - Finally, a pop-up window will ask you to provide a name for the output file.
+   - Upon successful execution, the script will print the following message to confirm the completion of the extraction and formatting process:
+     >Data successfully extracted and saved to {file path and name} with formatting
