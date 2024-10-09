@@ -7,6 +7,7 @@ Converts CT protocol data from HTML files into an Excel spreadsheet
 ## How to Use
 
 
+   - Run `ct_protocol_summary.py`
    - When the script starts running, a file explorer pop-up window will appear, allowing you to select the HTML file of interest.
    - The next window will prompt you to choose the location where you wish to save the result.
    - Finally, a pop-up window will ask you to provide a name for the output file.
